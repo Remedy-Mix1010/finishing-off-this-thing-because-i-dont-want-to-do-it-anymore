@@ -1,0 +1,29 @@
+body{
+background-repeat: no-repeat;
+background-position: center;
+background-color: #2f4d7d;
+font-family: 'Indie Flower', cursive;
+}
+.yes{
+    padding-left: 35px;
+    color: #a8990f;
+    font-weight: 1000;
+    font-size: medium;
+}
+#mhm{
+    padding-left: 75px;
+}
+button{
+    background-color: #3d95c4;
+    color: #884794;
+    border-color: #884794;
+    border-radius: 10px;
+}
+.buttonn{
+    padding-left: 70px;
+}
+
+canvas{
+    background-color: black;
+    margin-top: 60px;
+}
